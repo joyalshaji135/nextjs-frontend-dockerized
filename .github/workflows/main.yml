@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/nextjs-frontend:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/nextjs-frontend-dockerized
 
       # Optionally, clean GH runner space
       - name: Clean up
