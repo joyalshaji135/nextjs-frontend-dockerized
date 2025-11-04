@@ -232,7 +232,7 @@ export default function Home() {
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-gray-400">
                 <div className="flex items-center gap-2">
-                  <MapPin size={16} /
+                  <MapPin size={16} />
                   <span>123 Design Street, Creative City</span>
                 </div>
                 <div className="flex items-center gap-2">
