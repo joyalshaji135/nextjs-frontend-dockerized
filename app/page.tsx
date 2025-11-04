@@ -56,7 +56,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 text-center text-white px-4 max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Transform Your Space
+            Sreemayi Cm
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200">
             Creating beautiful, functional interiors that reflect your personality and lifestyle
